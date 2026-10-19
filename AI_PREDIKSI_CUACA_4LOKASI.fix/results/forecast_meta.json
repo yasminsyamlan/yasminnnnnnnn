@@ -1,0 +1,22 @@
+{
+  "awal_forecast": "2026-10 D1",
+  "metode_isi_celah": "klimatologi",
+  "per_lokasi": {
+    "Pamekasan_Pandan_Galis": {
+      "data_terakhir": "2025-12 D3",
+      "dasarian_input_terisi": 27
+    },
+    "Sampang_Pangarengan": {
+      "data_terakhir": "2025-12 D3",
+      "dasarian_input_terisi": 27
+    },
+    "Sumenep1_Karanganyar": {
+      "data_terakhir": "2025-12 D3",
+      "dasarian_input_terisi": 27
+    },
+    "Sumenep_Gersik_Putih": {
+      "data_terakhir": "2025-12 D3",
+      "dasarian_input_terisi": 27
+    }
+  }
+}
